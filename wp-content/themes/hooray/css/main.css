@@ -318,8 +318,8 @@ body.sticky-nav-on #navigation.sticky-nav .primary-menu ul#menu-primary > li > a
 .primary-menu ul#menu-primary > li.current-menu-parent > a,
 .primary-menu ul#menu-primary > li.current-menu-ancestor > a
 {
-    background-color: #ff4020;
-    color: #FFF !important;
+    background-color: none;
+    color: #FFF;
 }
 
 .primary-menu ul#menu-primary li ul {
@@ -971,7 +971,7 @@ ul.bd-post-carousel article h3 span {
 
 
 .post-video-play {
-    background: #ff4020;
+    background: none;
     font-size: 18px;
     margin: 0;
     position: absolute;
@@ -1245,7 +1245,7 @@ ul.bd-post-carousel article h3 span {
 .bdaia-posts-grid-post .bbd-post-cat-content * { line-height: inherit !important; }
 .bdaia-posts-grid-post.format-video .post-image:after
 {
-    background-color: #ff4020;
+    background-color: none;
     border-radius: 50%;
     color: #fff;
     content: "\f04b";
@@ -1506,7 +1506,7 @@ ul.bd-post-carousel article h3 span {
     font-size: 18px;
     font-family: Baskerville, 'NewBaskerville', Times, serif;
     font-style: italic;
-    color: #ff4020;
+    color: none;
 }
 
 .masonry-more-link:hover { color: #222 }
