@@ -757,7 +757,7 @@ body.menu-max-depth-11 { min-width: 1280px !important; }
 /* =Media Queries
 -------------------------------------------------------------- */
 
-@media only screen and (min-width: 769px) and (max-width: 1000px){
+@media only screen and (min-width: 990px) and (max-width: 1000px){
 	body.menu-max-depth-0 {
 		min-width: 0 !important;
 	}

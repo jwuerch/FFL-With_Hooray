@@ -7814,7 +7814,7 @@ div.post-caption>h3>a {
     }
 }
 
-@media screen and (min-width:769px) and (max-width:985px) {
+@media screen and (min-width:990px) and (max-width:985px) {
     .site-main {
         margin-right:20px;
     }

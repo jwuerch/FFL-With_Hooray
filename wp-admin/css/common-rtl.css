@@ -3362,7 +3362,7 @@ img {
 -------------------------------------------------------------- */
 
 /* @todo: de-duplication */
-@media only screen and (min-width: 769px) {
+@media only screen and (min-width: 990px) {
 	/* categories */
 	#col-left {
 		width: 35%;
