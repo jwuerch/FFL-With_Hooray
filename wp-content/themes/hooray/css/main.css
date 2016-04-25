@@ -1514,3 +1514,9 @@ ul.bd-post-carousel article h3 span {
 div.posts-gird #container-grid {
     margin-bottom: -30px;
 }
+
+/* MY CHANGES */
+
+.primary-menu ul#menu-primary > li.current-menu-ancestor > a {
+  background:none;
+}
