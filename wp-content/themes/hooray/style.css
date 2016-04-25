@@ -7978,6 +7978,68 @@ div.bdayh-footer-social-links > div > a.si-facebook > i, div.bdayh-footer-social
 
 }
 
+/** SAFARI ONLY **/
+
+/* Safari 7.1+ (9.0 is the latest version of Safari at this time) */
+
+_::-webkit-full-page-media, _:future, :root div.arti-details {
+  margin-left: 265px !important;
+}
+
+_::-webkit-full-page-media, _:future, :root div.post-date-wrap > div.post-date {
+    position:absolute !important;
+    left:-100px !important;
+}
+
+_::-webkit-full-page-media, _:future, :root .widget-title h2 {
+    position:relative;
+    top:13px;
+}
+
+_::-webkit-full-page-media, _:future, :root .bd-fb-likebox > .box-title > h2 {
+    top:-3px;
+}
+
+_::-webkit-full-page-media, _:future, :root div.bdayh-post-header-cat-inner {
+    float:left;
+}
+
+_::-webkit-full-page-media, _:future, :root .arti-go {
+    float:right !important;
+    position:relative;
+    top:-50.578px !important;
+    height:0 !important;
+}
+_::-webkit-full-page-media, _:future, :root div.arti-go-a {
+    padding:12.5px !important;
+    padding-top:13px !important;
+    padding-bottom:12px !important;
+    top:0% !important;
+    transform:none !important;
+}
+
+_::-webkit-full-page-media, _:future, :root div.arti-go-wrap {
+    border-left:1px solid #d1d1d1;
+}
+
+_::-webkit-full-page-media, _:future, :root .post-author-wrap > div {
+    padding:12.5px !important;
+    padding-top:13px !important;
+    padding-bottom:12px !important;
+    top:0 !important;
+    transform:none !important;
+}
+_::-webkit-full-page-media, _:future, :root div.bdayh-post-header-cat-inner > div {
+    padding:12.5px !important;
+    padding-top:13px !important;
+    padding-bottom:12px !important;
+    top:0 !important;
+    transform:none !important;
+}
+
+_::-webkit-full-page-media, _:future, :root .post-cat-author {
+    height:50.578px;
+}
 
 
 
